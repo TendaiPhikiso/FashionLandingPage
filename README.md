@@ -1,12 +1,14 @@
 # 🍷Zosiyana Landing page UI🍷
 
+![desktopui](https://github.com/TendaiPhikiso/ZosiyanaWebDesign/blob/main/Desktop.png)
+
 ## Summary
-Experiemnted with framer to design a conceptual fashion brand web design.
+Experiemnted with framer to design a conceptual fashion brand UI.
 
 ## Design Versions 
 You can View in (PNG) for the:
 
-* 💻Laptop Version
+* 💻Desktop Version
 * 📱Tablet Version
 * 📱Mobile version 
 
